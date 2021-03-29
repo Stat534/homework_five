@@ -22,3 +22,7 @@ Create a choropleth for COVID - 19 incidence rate
 ### Q2. (6 points)
 
 Assess the spatial structure of the COVID-19 incidence rate. Include at least a paragraph discussing your takeaway from this test.
+
+### Q3. (1 point)
+
+Project 2 will be due during the last week of class. Propose a dataset to use for the project. This can either be areal data or point process data. Note there will also be a presentation component for project 2.
